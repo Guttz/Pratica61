@@ -1,3 +1,8 @@
+import java.util.Map;
+import java.util.Set;
+import utfpr.ct.dainf.if62c.pratica.Jogador;
+import utfpr.ct.dainf.if62c.pratica.Time;
+
 /**
  * UTFPR - Universidade Tecnológica Federal do Paraná
  * DAINF - Departamento Acadêmico de Informática
@@ -7,7 +12,5 @@
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("Olá, Java!");
-    }
+
 }
